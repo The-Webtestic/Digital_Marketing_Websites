@@ -64,6 +64,14 @@ body {
     margin-bottom: 10px;
 }
 
+.ci {
+    background-image: url(/img/street1.jpg );
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+}
+
 .content .left-side .details .topic {
     font-size: 18px;
     font-weight: 500;
@@ -78,7 +86,7 @@ body {
 .container .content .right-side {
     width: 75%;
     margin-left: 75px;
-    a color: whitesmoke;
+    color: whitesmoke;
 }
 
 .content .right-side .topic-text {
