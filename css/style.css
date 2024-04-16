@@ -833,6 +833,10 @@
                                             border-radius: 2rem;
                                             margin-left: 3rem;
                                         }
+                                        .card_Container {
+                                            width: 350px;
+                                            transform: translateX(-9%);
+                                        }
                                         .inner-box {
                                             padding: 1rem;
                                         }
