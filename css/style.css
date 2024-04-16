@@ -829,6 +829,9 @@
                                     }
                                     
                                     @media (max-width: 530px) {
+                                        .send {
+                                            transform: translateX(35%);
+                                        }
                                         .box {
                                             border-radius: 2rem;
                                             margin-left: 3rem;
