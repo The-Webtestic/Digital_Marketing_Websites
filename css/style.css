@@ -413,10 +413,6 @@
                                     }
                                     
                                     @media (max-width:450px) {
-                                        .wrapper {
-                                            width: 480px;
-                                            transform: translateX(-20%);
-                                        }
                                         .card:hover .content .sci li {
                                             transform: translateY(320%);
                                             opacity: 1;
