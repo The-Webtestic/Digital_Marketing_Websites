@@ -460,18 +460,19 @@
                                     .home p {
                                         font-size: clamp(25px, 4vw, 40px);
                                         margin-top: 10px;
-                                        font-size: 2rem;
-                                        text-shadow: 0 2px 2px white;
-                                        font-family: "Bebas Neue", sans-serif;
-                                        ;
+                                        font-size: 1.3rem;
+                                        text-shadow: 0 2px 2px rgb(17, 17, 17);
+                                        font-family: "Montserrat", sans-serif;
+                                        
                                     }
                                     
                                     .home h1 {
                                         font-size: 4rem;
                                         margin-top: 10px;
                                         color: #fff;
-                                        text-shadow: 0 2px 2px whitesmoke;
-                                        font-family: "Rampart One", sans-serif;
+                                        text-shadow: 0 2px 2px rgb(10, 10, 10);
+                                        font-family: "Montserrat", sans-serif;
+                                        font-weight: 1000;
                                     }
                                     /*** Pricing ***/
                                     
