@@ -64,8 +64,10 @@ body {
     margin-bottom: 10px;
 }
 
+
+
 .ci {
-    background-image: url(./img/street1.jpg );
+    background-color: #afafb6;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
