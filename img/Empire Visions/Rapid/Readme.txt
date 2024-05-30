@@ -1,6 +1,6 @@
 Thanks for downloading this template!
 
-Template Name: Rapid
-Template URL: https://bootstrapmade.com/rapid-multipurpose-bootstrap-business-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Template Name: Digital Marketing
+Company Profile URL: https://www.linkedin.com/company/webtestic1017/
+Author: The Webtestic
+License: https://www.linkedin.com/company/webtestic1017/
